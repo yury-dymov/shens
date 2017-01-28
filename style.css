@@ -1,0 +1,49 @@
+#page {
+	width:800px;
+	margin: 0 auto;
+}
+
+#content {
+	float:left;	
+	width:670px;
+	margin: 0 auto;
+}
+
+#left_arrow {
+	width:50px;
+	height:100%;
+	float:left;
+}
+
+#left_arrow img {
+	margin-top:220px;
+}
+
+#right_arrow {
+	margin-left:10px;
+	width:50px;
+	float:left;
+	vertical-align:middle;
+}
+
+#right_arrow img {
+	margin-top:220px;
+}
+
+.img {
+	float:left;
+	margin-right:20px
+}
+
+.border {
+	border: 3px solid;
+	padding:3px
+}
+
+a img {
+	border:none;
+}
+
+.clear {
+	clear:both;
+}
